@@ -1,7 +1,7 @@
 2016-11-25 15:01:15.707 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
 2016-11-25 15:01:15.776 [localhost-startStop-1] DEBUG org.springframework.web.context.support.StandardServletEnvironment - Adding [servletConfigInitParams] PropertySource with lowest search precedence
 2016-11-25 15:01:15.776 [localhost-startStop-1] DEBUG org.springframework.web.context.support.StandardServletEnvironment - Adding [servletContextInitParams] PropertySource with lowest search precedence
-2016-11-25 15:01:15.781 [localhost-startStop-1] DEBUG org.springframework.web.context.support.StandardServletEnvironment - Adding [jndiProperties] PropertySource with lowest search precedence
+2016-11-25 15:01:15.781 [localhost-startStop-1] DEBUG org.springframework.web.context.support.StandardServletEnvironment - Adding [jndiProperties] PropertySource with lowest search precede nce
 2016-11-25 15:01:15.781 [localhost-startStop-1] DEBUG org.springframework.web.context.support.StandardServletEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
 2016-11-25 15:01:15.782 [localhost-startStop-1] DEBUG org.springframework.web.context.support.StandardServletEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
 2016-11-25 15:01:15.783 [localhost-startStop-1] DEBUG org.springframework.web.context.support.StandardServletEnvironment - Initialized StandardServletEnvironment with PropertySources [servletConfigInitParams,servletContextInitParams,jndiProperties,systemProperties,systemEnvironment]
